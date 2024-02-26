@@ -11,9 +11,7 @@
 
   },
   "usingComponents": {
-    "van-nav-bar": "@vant/weapp/nav-bar/index",
-    "van-tabbar": "@vant/weapp/tabbar/index",
-    "van-tabbar-item": "@vant/weapp/tabbar-item/index"
+    "van-nav-bar": "@vant/weapp/nav-bar/index"
   },
   "tabBar": {
     "backgroundColor": "#1c1c1a",
